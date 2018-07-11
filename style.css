@@ -50,7 +50,7 @@ h1 {
 .conteneur {
  display: flex;
  justify-content: space-between;
- width 900px
+ width 900px;
  background-image: url(https://wallpapercave.com/wp/Rstecz1.jpg);
 }
 

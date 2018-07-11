@@ -6,7 +6,6 @@ body {
   text-align: center;
   font-family: "comic sans ms", cursive;
   font-size: 18px;
-  align-items: center;
   margin: 80px 80px;
   color: #444;
   background-image: url(https://wallpapercave.com/wp/Rstecz1.jpg);
@@ -14,19 +13,33 @@ body {
 
 }
 
-.element {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin: 12px 12px;
+.Homebtn {
+  text-align: left;
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  color: grey;
+  margin-left: 0 0;
+
+  }
+
+  .conteneur {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
 }
 
-.conteneur {
- display: flex;
- flex-direction: column;
- align-items: center;
- justify-content: center;
- text-align: center;
- width 900px
- background-image: url(https://wallpapercave.com/wp/Rstecz1.jpg);
+
+
+.element {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  text-align: justify;
+  margin: 0px 0px;
+  color: 444;
+margin: 10px 20px;
 }
