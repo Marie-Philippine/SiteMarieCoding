@@ -13,14 +13,47 @@ body {
 
 }
 
+title {
+
+  background-color: white;
+  border: 1px solid black;
+  padding: 9px;
+  padding-bottom: 3px;
+  padding-top: 2px;
+
+  }
+
+h1 {
+  background-color: white;
+  border: 1px solid black;
+  padding: 9px;
+  padding-bottom: 3px;
+  padding-top: 2px;
+  }
+
+  p {
+
+    background-color: white;
+    border: 1px solid black;
+    padding: 9px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+
+    }
+
 .Homebtn {
   text-align: left;
-  width: 70px;
+  width: 50px;
   height: 40px;
   font-size: 20px;
+  padding: 10px;
   color: grey;
   margin-left: 0 0;
-  background-color: grey;
+  background-color: white;
+  border: 1px solid black;
+  padding-bottom: 3px;
+
+
 
   }
 
@@ -29,6 +62,7 @@ body {
     justify-content: space-between;
     align-items: center;
     border-color: black;
+    padding: 2px 2px;
 }
 
 
@@ -40,5 +74,9 @@ body {
   margin: 0px 0px;
   color: 444;
   margin: 10px 20px;
-  background-color: white
+  background-color: white;
+  border: 1px solid black;
+  padding: 2px 2px;
+
+
 }
