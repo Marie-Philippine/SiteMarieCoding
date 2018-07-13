@@ -20,6 +20,7 @@ body {
   font-size: 20px;
   color: grey;
   margin-left: 0 0;
+  background-color: grey;
 
   }
 
@@ -27,6 +28,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-color: black;
 }
 
 
@@ -38,4 +40,5 @@ body {
   margin: 0px 0px;
   color: 444;
   margin: 10px 20px;
+  background-color: white
 }
