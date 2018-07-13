@@ -8,7 +8,7 @@ body {
   font-size: 18px;
   margin: 80px 80px;
   color: #444;
-  background-image: url(https://wallpapercave.com/wp/Rstecz1.jpg);
+  background-image: url(https://d1spp6thtwzcoh.cloudfront.net/sso/images/nao-pepper.png);
   flex-direction: column;
 
 }
@@ -27,11 +27,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-
-
 }
-
 
 
 .element {
@@ -41,5 +37,5 @@ body {
   text-align: justify;
   margin: 0px 0px;
   color: 444;
-margin: 10px 20px;
+  margin: 10px 20px;
 }
